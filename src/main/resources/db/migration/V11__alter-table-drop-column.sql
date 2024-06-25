@@ -1,0 +1,1 @@
+ALTER TABLE planta DROP COLUMN imagem;
