@@ -1,1 +1,0 @@
-ALTER TABLE projeto ADD COLUMN tipo_projeto varchar(255) not null;
