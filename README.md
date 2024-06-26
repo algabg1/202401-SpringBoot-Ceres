@@ -1,0 +1,1 @@
+[![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=algabg1_202401-SpringBoot-Ceres&metric=alert_status)](https://sonarcloud.io/summary/new_code?id=algabg1_202401-SpringBoot-Ceres)
